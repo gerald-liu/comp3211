@@ -1,0 +1,34 @@
+Current generation: 0
+        Improved best fitness: 45.0
+Current generation: 1
+        Current generation best fitness: 45.0
+Current generation: 2
+        Current generation best fitness: 45.0
+Current generation: 3
+        Current generation best fitness: 45.0
+Current generation: 4
+        Current generation best fitness: 45.0
+Current generation: 5
+        Improved best fitness: 47.0
+Current generation: 6
+        Current generation best fitness: 47.0
+Current generation: 7
+        Current generation best fitness: 47.0
+Current generation: 8
+        Current generation best fitness: 47.0
+Current generation: 9
+        Current generation best fitness: 47.0
+Current generation: 10
+        Current generation best fitness: 47.0
+Current generation: 11
+        Current generation best fitness: 47.0
+Current generation: 12
+        Improved best fitness: 48.0
+Current generation: 13
+        Improved best fitness: 49.0
+
+Best perceptron found in generation 13
+Weights:
+-0.4429501010314083 -0.3528931627861174 1.0448234472331954 -0.6295952980740078 1.945727898844868 0.975079957431467 -1.9114679525136928 -1.1573473504082492 0.3588435559245591
+Threshold: -0.25410257165494254
+Best fitness: 49.0
