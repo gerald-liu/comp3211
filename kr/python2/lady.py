@@ -30,6 +30,7 @@ That is, the lady is in Room I.
 
 '''
 
+from __future__ import print_function
 from z3 import Bool, And, Or, Not, Sum, If, Solver
 
 p = Bool('Lady in Room I')   # Lady in Room I
