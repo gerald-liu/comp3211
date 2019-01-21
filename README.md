@@ -4,6 +4,7 @@ COMP 3211 &ndash; Fundamentals of Artificial Intelligence
 2018 Fall, HKUST
 
 Programs by Gerald Liu
+Grade: 100%
 
 ##  Assignment 1
 
