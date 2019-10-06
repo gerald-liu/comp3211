@@ -7,6 +7,8 @@ Programs by Gerald Liu
 
 Grade: 100%
 
+**For reference only, please DO NOT COPY.**
+
 ##  Assignment 1
 
 ### Problem 3: Genetic Programming
@@ -45,12 +47,12 @@ Run everything with Python 2.
 
 For Task 1, run
 
-`python pacman-hw2/pacman.py -l bigMaze -z .5 -p SearchAgent \`  
-`-a fn=astar,heuristic=manhattanHeuristic`
+`python pacman-hw2/pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic`
 
 For Task 2, run
 
 `python pacman-hw2/pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem`
+
 `python pacman-hw2/pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem`
 
 For Task 3, run
